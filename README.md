@@ -16,7 +16,7 @@ Se enfoca en replicar la apariencia virtual de pinterest, ofreciendo una experie
 + **Google Fonts:** Para funtes personalizadas.
 
 ### Vista previa del proyecto
-![DEMO](imagenes/pinterestscreen.jpg)
+![DEMO](imagenes/pinterestscreen.jpeg)
 
 ### Contacto
 Si te gustaria invitarme a colaborar en un proyecto, escribeme por [Linkedin](https://www.linkedin.com/in/claudia-hern%C3%A1ndez-652942183/).
