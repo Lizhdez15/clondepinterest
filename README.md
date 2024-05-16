@@ -19,4 +19,4 @@ Se enfoca en replicar la apariencia virtual de pinterest, ofreciendo una experie
 ----Pendiente----
 
 ### Contacto
-Si te gustaria invitarme a colaborar en un proyecto, escribeme por [Linkedin] (https://www.linkedin.com/in/claudia-hern%C3%A1ndez-652942183/)
+Si te gustaria invitarme a colaborar en un proyecto, escribeme por [Linkedin](https://www.linkedin.com/in/claudia-hern%C3%A1ndez-652942183/).
